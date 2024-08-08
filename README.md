@@ -30,47 +30,47 @@
 <br><br>
 
 ### Features
-S1. 회원 관리 (Membership Management)
+1. 회원 관리 (Membership Management)
 - 회원가입 (Member Registration)
 - 로그인/로그아웃 (Login/Logout)
 - 회원 정보 조회 및 수정 (View and Edit Member Information)
 
-S2. 리뷰 서비스 (Review Service)
+2. 리뷰 서비스 (Review Service)
 - 리뷰 작성 (Write Review)
 - 리뷰 조회 (View Review)
 
-S3. 상품 조회 (Product Search)
+3. 상품 조회 (Product Search)
 - 검색 (Search)
 - 좋아요 (Like)
 - 수정/삭제 (Edit/Delete)
 - 상품 정렬 (Product Sorting)
 
-S4. 상품 등록 및 판매/구매 (Product Registration and Sale/Purchase)
+4. 상품 등록 및 판매/구매 (Product Registration and Sale/Purchase)
 - 상품 등록 (Register Product)
 - 상품 정보 수정 (Edit Product Information)
 - 상품 삭제 (Delete Product)
 - 판매 (Sell)
 - 구매 (Purchase)
 
-S5. 경매 (Auction)
+5. 경매 (Auction)
 - 입찰 (Bid)
 - 입찰가 수정 (Edit Bid)
 - 입찰 취소 (Bid Cancellation)
 - 낙찰 (Successful Bid) 
 
-S6. 공동구매 (Group Buying)
+6. 공동구매 (Group Buying)
 - 참가 신청 (Apply For Participation)
 - 참가 취소 (Cancellation Of Participation)
 - 모집 인원 충족/실패 (Recruitment Capacity Met/Failed)
 
-S7. 주문 (Order)
+7. 주문 (Order)
 - 주문 (Order)
 - 주문 조회 (Order Tracking)
 
-S8. 랭킹 (Ranking
-- 인기순 조회 (Search By Likes)
+8. 랭킹 (Ranking)
+- 인기순 조회 (Ranked By Likes)
 
-S9. 보안 (Security)
+9. 보안 (Security)
 - 권한 체크 (Permission Check)
 
 <br><br>
